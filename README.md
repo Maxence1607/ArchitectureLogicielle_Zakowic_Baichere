@@ -23,5 +23,5 @@ Notre diagramme est initialement vide.
 
 
 
-Binôme: Aurélien Zakowic et Maxence Baichère
-Projet sous la tutelle de Mr Hevé Grall
+#Binôme: Aurélien Zakowic et Maxence Baichère
+#Projet sous la tutelle de Mr Hevé Grall
