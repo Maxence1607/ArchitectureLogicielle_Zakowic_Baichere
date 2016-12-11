@@ -17,11 +17,10 @@ Notre diagramme est initialement vide.
  
 # Police, Couleur et Epaisseur:
   Dans la représentation SVG de notre digramme il est possible de modifier ces différents paramètres:
+  - Pour la police des caractères faire appel à setPolice.
   - Pour la couleur du texte faire appel à setTexteColor.
   - Pour la couleur des formes faire appel à setShapeColor.
   - Pour l'épaisseur des formes faire appel à setEpaisseurTraitBoite.
 
-
-
-#Binôme: Aurélien Zakowic et Maxence Baichère
-#Projet sous la tutelle de Mr Hevé Grall
+Binôme: Aurélien Zakowic et Maxence Baichère
+Projet sous la tutelle de Mr Hevé Grall
