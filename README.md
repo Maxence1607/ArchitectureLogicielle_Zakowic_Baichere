@@ -22,5 +22,6 @@ Notre diagramme est initialement vide.
   - Pour la couleur des formes faire appel à setShapeColor.
   - Pour l'épaisseur des formes faire appel à setEpaisseurTraitBoite.
 
-Binôme: Aurélien Zakowic et Maxence Baichère
+# Acteurs du projet
+Aurélien Zakowic et Maxence Baichère
 Projet sous la tutelle de Mr Hevé Grall
