@@ -24,4 +24,5 @@ Notre diagramme est initialement vide.
 
 # Acteurs du projet
 Aurélien Zakowic et Maxence Baichère
+
 Projet sous la tutelle de Mr Hevé Grall
